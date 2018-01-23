@@ -23,12 +23,12 @@ I am also available by appointment. To schedule one feel free to email or text m
 
 ## Tutor Information
 
-* There are a couple options for tutors in this class. The Computer Science Department and the Learning Center have free tutoring available. You should make sure and take advantage of these opportunities. Further, starting the second week, this course will have a dedicated TA for the semester.
+There are a couple options for tutors in this class. The Computer Science Department and the Learning Center have free tutoring available. You should make sure and take advantage of these opportunities. Further, starting the second week, this course will have a dedicated TA for the semester.
 
 
 ## Catalog Description
 
-* Develop a solid foundation in a modern programming language, concepts of programming such as variables, datatypes, functions, I/O, parameter-passing, assignment, classes, lists, arrays, conditionals, loops, and recursion. Understand techniques of analysis, design, testing, documentation, coding, and debugging. 
+Develop a solid foundation in a modern programming language, concepts of programming such as variables, datatypes, functions, I/O, parameter-passing, assignment, classes, lists, arrays, conditionals, loops, and recursion. Understand techniques of analysis, design, testing, documentation, coding, and debugging. 
 
 
 
@@ -56,7 +56,7 @@ The website for the course is the GitHub organization [https://github.com/csc-17
 
 ## Grading Rational
 
-* The final grade will be determined by your performance on homework, quizzes, exams, and the final examination. The final grade is weighted as follows:
+The final grade will be determined by your performance on homework, quizzes, exams, and the final examination. The final grade is weighted as follows:
 
 |Item | Percentage |
 |---|---|
@@ -68,31 +68,31 @@ The website for the course is the GitHub organization [https://github.com/csc-17
 
 ## Attendance Policy
 
-* There is no component in the grading scheme of this course for attendance. However, you will need to come to class on time in order to get the best possible grade in this class. If you miss a class for a medical reason or other valid excuse, you will be given an opportunity to make up any missing material. But if you cut class without a valid reason, your grade will suffer.
+There is no component in the grading scheme of this course for attendance. However, you will need to come to class on time in order to get the best possible grade in this class. If you miss a class for a medical reason or other valid excuse, you will be given an opportunity to make up any missing material. But if you cut class without a valid reason, your grade will suffer.
 
-* Only students who are registered for courses, and whose name appears on the Official Class Roster may attend courses at the University. Adelphi students make a commitment to be active participants in their educational program; class attendance is an integral part of this commitment. Students are expected to be present promptly at the beginning of each class period, unless prevented by illness or by other compelling cause. In the event of such absence, students may request that faculty members be notified by the Office of Academic Services and Retention. Students are responsible for completing course work missed through absences. Students should wait a reasonable length of time for an instructor in the event that the instructor is delayed.
+Only students who are registered for courses, and whose name appears on the Official Class Roster may attend courses at the University. Adelphi students make a commitment to be active participants in their educational program; class attendance is an integral part of this commitment. Students are expected to be present promptly at the beginning of each class period, unless prevented by illness or by other compelling cause. In the event of such absence, students may request that faculty members be notified by the Office of Academic Services and Retention. Students are responsible for completing course work missed through absences. Students should wait a reasonable length of time for an instructor in the event that the instructor is delayed.
 
 ## Students With Disabilities
 
-* If you have a disability that may significantly impact your ability to carry out assigned coursework, please contact the Student Access Office (SAO) at 516-877-3145 or send an email to [sao@adelphi.edu](mailto:sao@adelphi.edu).  The staff will review your concerns and determine, with you, appropriate and necessary accommodations.  Please allow for a reasonable time frame for requesting ASL Interpreters or Transcription Services.
+If you have a disability that may significantly impact your ability to carry out assigned coursework, please contact the Student Access Office (SAO) at 516-877-3145 or send an email to [sao@adelphi.edu](mailto:sao@adelphi.edu).  The staff will review your concerns and determine, with you, appropriate and necessary accommodations.  Please allow for a reasonable time frame for requesting ASL Interpreters or Transcription Services.
 
 
 ## Course Learning Goals 
 
-* These are my goals for you over the course of the semester. I would also be interested to hear any other goals you have for yourself.
-* * • Students will successfully communicate mathematics through reading, writing and speaking.
-* * • Students will value peer collaboration and group learning while continuing to maintain a sense of self-motivation and personal understanding.
-* * • Students will work to solve difficult problems. Value the process of figuring them out yourself, rather
+These are my goals for you over the course of the semester. I would also be interested to hear any other goals you have for yourself.
+* Students will successfully communicate mathematics through reading, writing and speaking.
+* Students will value peer collaboration and group learning while continuing to maintain a sense of self-motivation and personal understanding.
+* Students will work to solve difficult problems. Value the process of figuring them out yourself, rather
 than just searching for "the answer."
-* * • Students will be prepared to continue in the major and use the tools of this course as they apply
+* Students will be prepared to continue in the major and use the tools of this course as they apply
 to other disciplines.
-* * • We will all have FUN learning together!
+* We will all have FUN learning together!
 
 
 
 ## Honor Code Statement
 
-* Students enrolled in this course are expected to abide by the Adelphi University Honor Code. The purpose of the Honor Code is to protect the academic integrity of the University by encouraging consistent ethical behavior in assigned coursework by students. Following is excerpted from the Student Honor Code:
+Students enrolled in this course are expected to abide by the Adelphi University Honor Code. The purpose of the Honor Code is to protect the academic integrity of the University by encouraging consistent ethical behavior in assigned coursework by students. Following is excerpted from the Student Honor Code:
 
 > __The Code of Academic Honesty__
 > The code of academic honesty prohibits behavior, which can broadly be described as lying, cheating, or stealing. Violations of the code of academic honesty will include, but are not limited to, the following:
@@ -109,7 +109,7 @@ to other disciplines.
 
 ## Student Course Evaluations
 
-* During the last two weeks of the class, you will receive notification, via email and
+During the last two weeks of the class, you will receive notification, via email and
 eCampus, that the course evaluation is available for your input electronically.
 Availability will end at the start of the final examination period. Your feedback is valuable and I encourage you to respond. Please be assured that your responses are anonymous and the results will not be available to the instructor until after the end of the semester and therefore after course grades have been submitted.
 
@@ -117,17 +117,17 @@ Availability will end at the start of the final examination period. Your feedbac
 
 ## General Education Learning Goals & Distribution Requirements
 
-* This course fulfills the Quantitative Learning Goal for General Education at Adelphi University. It also fulfills the Formal Science Distribution requirement.
+This course fulfills the Quantitative Learning Goal for General Education at Adelphi University. It also fulfills the Formal Science Distribution requirement.
 
 
 
 ## Classroom Conduct
 
-* Conduct is important in the classroom as it is in the workplace.  In Adelphi classes, people are expected to treat others with respect and dignity at all times.  Any behavior, which is disruptive to the learning environment, is strictly prohibited.  Disruptive behavior may result in action including reduction in the final grade and/or withdrawal from class.
+Conduct is important in the classroom as it is in the workplace.  In Adelphi classes, people are expected to treat others with respect and dignity at all times.  Any behavior, which is disruptive to the learning environment, is strictly prohibited.  Disruptive behavior may result in action including reduction in the final grade and/or withdrawal from class.
 
 
 
 ## Religious Holidays
 
-* Any student in this course who plans to observe a religious holiday which conflicts in any way with the course schedule or requirements should contact the instructor as soon as possible to discuss alternative accommodations.
+Any student in this course who plans to observe a religious holiday which conflicts in any way with the course schedule or requirements should contact the instructor as soon as possible to discuss alternative accommodations.
 
