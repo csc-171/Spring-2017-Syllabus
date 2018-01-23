@@ -1,8 +1,7 @@
-# CSC 171 - Introduction to Computer Programming <br> Spring-2017-Syllabus
+# CSC 171 - Introduction to Computer Programming <br> Spring-2018-Syllabus
 
-Lecture, TR 01:40pm-02:55am, Swirbul Library room 101<br>
-Lab, TR 03:05pm-04:20pm, Swirbul Library Gallagher Lab<br>
-[http://math.adelphi.edu/~bstone/teaching/csc171/](http://math.adelphi.edu/~bstone/teaching/csc171/)<br>
+Lecture, TR 12:15pm-01:30pm, Swirbul Library room 101<br>
+Lab, TR 01:40pm-02:55pm, Science Building 227<br>
 [https://github.com/csc-171/](https://github.com/csc-171/)
 
 ## Instructor
@@ -10,16 +9,17 @@ Lab, TR 03:05pm-04:20pm, Swirbul Library Gallagher Lab<br>
 * Branden Stone 
 * Science Building, room 411 
 * [bstone@adelphi.edu](mailto:bstone@adelphi.edu)
-* 785-813-1206
+* [http://math.adelphi.edu/~bstone/](http://math.adelphi.edu/~bstone/)
+* 516-515-0340 (call or text)
 
 ## Office Hours
 
-* M 1:30pm - 2:15pm
-* T 12:15pm - 1:30pm 
-* W 1:30pm - 2:15pm
-* R 12:15pm - 1:30pm 
-* or by appointment 
+* M 2:15pm - 4:15pm
+* T 3:15pm - 4:15pm
+* R 3:15pm - 4:15pm
 * [Subscribe to Branden's Office Hours on Google Calendar](https://www.google.com/calendar/render?cid=adelphi.edu_js6gaidjgh5jstl23kf7uqvepc@group.calendar.google.com#g)
+
+I am also available by appointment. To schedule one feel free to email or text me; keep in mind the above number is dedicated to course work and I answer both emails and texts twice daily. 
 
 ## Tutor Information
 
@@ -35,7 +35,7 @@ Lab, TR 03:05pm-04:20pm, Swirbul Library Gallagher Lab<br>
 ## Materials
 
 * __Website.__ 
-The website for the course is [http://math.adelphi.edu/~bstone/teaching/csc171/](http://math.adelphi.edu/~bstone/teaching/csc171/) as well as the GitHub organization [https://github.com/csc-171](https://github.com/csc-171).  The labs and homework assignments will be posted on GitHub. The website site will host other resources and materials. 
+The website for the course is the GitHub organization [https://github.com/csc-171](https://github.com/csc-171).  The labs and homework assignments will be posted on GitHub as well as other resources and materials. 
 
 
 * __Text.__ Objects First with Java, A Practical Introduction Using BlueJ, David J. Barnes and Michael Kölling, Sixth Edition. 
@@ -66,18 +66,6 @@ The website for the course is [http://math.adelphi.edu/~bstone/teaching/csc171/]
 | Exams | 40% |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Attendance Policy
 
 * There is no component in the grading scheme of this course for attendance. However, you will need to come to class on time in order to get the best possible grade in this class. If you miss a class for a medical reason or other valid excuse, you will be given an opportunity to make up any missing material. But if you cut class without a valid reason, your grade will suffer.
@@ -106,8 +94,8 @@ to other disciplines.
 
 * Students enrolled in this course are expected to abide by the Adelphi University Honor Code. The purpose of the Honor Code is to protect the academic integrity of the University by encouraging consistent ethical behavior in assigned coursework by students. Following is excerpted from the Student Honor Code:
 
-> * The Code of Academic Honesty
-> * * The code of academic honesty prohibits behavior, which can broadly be described as lying, cheating, or stealing. Violations of the code of academic honesty will include, but are not limited to, the following:
+> __The Code of Academic Honesty__
+> The code of academic honesty prohibits behavior, which can broadly be described as lying, cheating, or stealing. Violations of the code of academic honesty will include, but are not limited to, the following:
 > 1. Fabricating data or citations
 > 2. Collaborating in areas prohibited by the professor
 > 3. Unauthorized multiple submission of work
