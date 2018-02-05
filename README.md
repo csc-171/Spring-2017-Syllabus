@@ -38,7 +38,7 @@ Develop a solid foundation in a modern programming language, concepts of program
 The website for the course is the GitHub organization [https://github.com/csc-171](https://github.com/csc-171).  The labs and homework assignments will be posted on GitHub as well as other resources and materials. 
 
 
-* __Text.__ Objects First with Java, A Practical Introduction Using BlueJ, David J. Barnes and Michael Kölling, Sixth Edition. [https://www.vitalsource.com/referral?term=9780134478449](link to online book)
+* __Text.__ Objects First with Java, A Practical Introduction Using BlueJ, David J. Barnes and Michael Kölling, Sixth Edition. Link to book: [https://www.vitalsource.com/referral?term=9780134478449](https://www.vitalsource.com/referral?term=9780134478449)
 
 
 ## Assessment 
